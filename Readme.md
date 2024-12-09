@@ -4,7 +4,7 @@
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   <p>Hi! My name is Sarfraj. Thank you for taking the time to view my GitHub Profile 😄</p>
 
-  - 🔭 I’m currently working on **My Blog, GitHub Projects**
+  - 🔭 I’m currently working on **SDK, GitHub Projects**
   - 🌱 I’m currently learning **Blockchain**
   - 👯 I’m looking to collaborate on **Projects, Tech Articles**
   - 💬 Talk to me about **Python, JavaScript, Freelancing Opportunities, MERN, Blockchain, Open Source**
